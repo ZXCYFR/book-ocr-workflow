@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+work/
+模型/
+fonts/
+*.pdf
+*.djvu
+*.zip
+*.jsonl
+原始资料/
+最终成果/
+制作资料/

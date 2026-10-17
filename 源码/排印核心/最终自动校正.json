@@ -1,0 +1,920 @@
+[
+  {
+    "物理页": "scan_006_left",
+    "扫描页": 6,
+    "类别": "拉丁",
+    "原文": "saratowii",
+    "校正": "saratowi",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "84 31 . E . saratowii Piers . 85 32 ."
+  },
+  {
+    "物理页": "scan_007_left",
+    "扫描页": 7,
+    "类别": "拉丁",
+    "原文": "hellichii",
+    "校正": "hellichi",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "s . str . ) hellichii Thon . . . ."
+  },
+  {
+    "物理页": "scan_007_right",
+    "扫描页": 7,
+    "类别": "拉丁",
+    "原文": "Schanb",
+    "校正": "Schaub",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ") dispar ( v . Schanb ) 151 9 . H"
+  },
+  {
+    "物理页": "scan_008_right",
+    "扫描页": 8,
+    "类别": "拉丁",
+    "原文": "belecensis",
+    "校正": "beleensis",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ". ( P . ) belecensis Sokolow . . . ."
+  },
+  {
+    "物理页": "scan_009_left",
+    "扫描页": 9,
+    "类别": "拉丁",
+    "原文": "longissimu",
+    "校正": "longissima",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ". ( Ps . ) longissimu , sp . n ."
+  },
+  {
+    "物理页": "scan_009_right",
+    "扫描页": 9,
+    "类别": "拉丁",
+    "原文": "comnexus",
+    "校正": "connexus",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ". ( R . ) comnexus Koen . . . ."
+  },
+  {
+    "物理页": "scan_013_left",
+    "扫描页": 13,
+    "类别": "拉丁",
+    "原文": "sochowensis",
+    "校正": "soochowensis",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ". ( M . ) sochowensis Marshall 476 53 . A"
+  },
+  {
+    "物理页": "scan_013_left",
+    "扫描页": 13,
+    "类别": "拉丁",
+    "原文": "daubthensis",
+    "校正": "daubihensis",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "477 55 . A . daubthensis Sokolow 477 56 . A"
+  },
+  {
+    "物理页": "scan_013_right",
+    "扫描页": 13,
+    "类别": "拉丁",
+    "原文": "Thoi",
+    "校正": "Thor",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "клещам , которых S . Thoi объединяет в сборное понятие —"
+  },
+  {
+    "物理页": "scan_023_left",
+    "扫描页": 23,
+    "类别": "拉丁",
+    "原文": "Aeercus",
+    "校正": "Acercus",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ", Piona nodata , некоторые Aeercus и т . п ."
+  },
+  {
+    "物理页": "scan_030_left",
+    "扫描页": 30,
+    "类别": "数字",
+    "原文": "1903",
+    "校正": "1905",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ". Удальцов , А . 1903 . К фауне гидракинд Глубокого"
+  },
+  {
+    "物理页": "scan_030_right",
+    "扫描页": 30,
+    "类别": "拉丁",
+    "原文": "Moccaa",
+    "校正": "Москва",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ". Primitiae Faunae Mosquensis . Moccaa . Eichwald , E ."
+  },
+  {
+    "物理页": "scan_031_right",
+    "扫描页": 31,
+    "类别": "拉丁",
+    "原文": "Arrhenarus",
+    "校正": "Arrhenurus",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ". I . 1881 . Arrhenarus perforatus , a new watermite"
+  },
+  {
+    "物理页": "scan_032_right",
+    "扫描页": 32,
+    "类别": "拉丁",
+    "原文": "vou",
+    "校正": "von",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "Schweden nebst Bemerkungen zur Identitätsfrage vou Hydrovolzia placophora ( Monti )"
+  },
+  {
+    "物理页": "scan_033_left",
+    "扫描页": 33,
+    "类别": "拉丁",
+    "原文": "nene",
+    "校正": "neue",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ". — 1936c . Weitere nene Wassermilben aus Santa Catharina etc"
+  },
+  {
+    "物理页": "scan_033_left",
+    "扫描页": 33,
+    "类别": "拉丁",
+    "原文": "Migoti",
+    "校正": "Migot",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ", Art . 4 . Migoti , A . 1926 ."
+  },
+  {
+    "物理页": "scan_033_right",
+    "扫描页": 33,
+    "类别": "拉丁",
+    "原文": "Entwickelungsgeschichte",
+    "校正": "Entwicklungsgeschichte",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ". Beiträge zur Systematik und Entwickelungsgeschichte der Süsswassermilben . Ibid ."
+  },
+  {
+    "物理页": "scan_034_left",
+    "扫描页": 34,
+    "类别": "拉丁",
+    "原文": "Huttfeldtia",
+    "校正": "Huitfeldtia",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "XX . — 1898 . Huttfeldtia , en ny Hydrachnide -"
+  },
+  {
+    "物理页": "scan_035_right",
+    "扫描页": 35,
+    "类别": "拉丁",
+    "原文": "upterirdischen",
+    "校正": "unterirdischen",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "— 1935 . Wassermilben aus upterirdischen Gewässern Jugoslaviens ( achte Mitteilung"
+  },
+  {
+    "物理页": "scan_038_right",
+    "扫描页": 38,
+    "类别": "拉丁",
+    "原文": "Arrhenuriidae",
+    "校正": "Arrhenuridae",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ". . . XXIX . Arrhenuriidae ( стр . 431 )"
+  },
+  {
+    "物理页": "scan_040_right",
+    "扫描页": 40,
+    "类别": "数字",
+    "原文": "57",
+    "校正": "67",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ", 1922a : 64 — 57 ( развитие ) ; Walter"
+  },
+  {
+    "物理页": "scan_042_left",
+    "扫描页": 42,
+    "类别": "数字",
+    "原文": "38",
+    "校正": "58",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "38 II . LIMNOCHARIDAE Развитие ."
+  },
+  {
+    "物理页": "scan_042_right",
+    "扫描页": 42,
+    "类别": "数字",
+    "原文": "1890",
+    "校正": "1880",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "Подсем . EYLAINAE Claus , 1890 . Цвет тела красный ."
+  },
+  {
+    "物理页": "scan_045_left",
+    "扫描页": 45,
+    "类别": "数字",
+    "原文": "54",
+    "校正": "64",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "54 III . EYLAIDAE 62 ("
+  },
+  {
+    "物理页": "scan_059_left",
+    "扫描页": 59,
+    "类别": "拉丁",
+    "原文": "PROTZIDAE",
+    "校正": "PROTZIIDAE",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "92 IV . PROTZIDAE 1 . Род PROTZIA PIERSIG"
+  },
+  {
+    "物理页": "scan_061_right",
+    "扫描页": 61,
+    "类别": "拉丁",
+    "原文": "Miller",
+    "校正": "Müller",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "III . Надсем . HYDRACHNAE Miller , 1776 ( part ."
+  },
+  {
+    "物理页": "scan_062_left",
+    "扫描页": 62,
+    "类别": "拉丁",
+    "原文": "Koep",
+    "校正": "Koen",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ". Müll . и Bargena Koep . ( тропическая Африка ,"
+  },
+  {
+    "物理页": "scan_062_right",
+    "扫描页": 62,
+    "类别": "西里尔重复",
+    "原文": "целиком",
+    "校正": "",
+    "证据": "两对照模型均无此token且本页重复出现",
+    "上下文": ". Ноги пятичленистые . Спина целиком целиком прикрыта дорс . щитком"
+  },
+  {
+    "物理页": "scan_063_left",
+    "扫描页": 63,
+    "类别": "数字",
+    "原文": "177",
+    "校正": "179",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "; Viets , 1931 : 177 , Fig . 1 —"
+  },
+  {
+    "物理页": "scan_063_left",
+    "扫描页": 63,
+    "类别": "数字",
+    "原文": "42",
+    "校正": "426",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "rossica Daday , 1901 : 42 — 428 , t ."
+  },
+  {
+    "物理页": "scan_072_right",
+    "扫描页": 72,
+    "类别": "拉丁",
+    "原文": "bimacellata",
+    "校正": "bimaculata",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "каадки ) . — ? bimacellata Koenike , 1908 : 253"
+  },
+  {
+    "物理页": "scan_075_left",
+    "扫描页": 75,
+    "类别": "拉丁",
+    "原文": "Thyasicae",
+    "校正": "Thyasinae",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ". — 7 подсемейств : Thyasicae , Teratothyasinae , Tartarothyasinae ,"
+  },
+  {
+    "物理页": "scan_080_left",
+    "扫描页": 80,
+    "类别": "数字",
+    "原文": "36",
+    "校正": "38",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ": 33 , f . 36 ( Thyas ) ; Lundblad"
+  },
+  {
+    "物理页": "scan_091_left",
+    "扫描页": 91,
+    "类别": "数字",
+    "原文": "58",
+    "校正": "68",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ". ♀ до 1 . 58 мм . Фронт . щиток"
+  },
+  {
+    "物理页": "scan_095_right",
+    "扫描页": 95,
+    "类别": "数字",
+    "原文": "1900",
+    "校正": "1906",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ". Белая ( Соловьев , 1900 ) , оз . Селигер"
+  },
+  {
+    "物理页": "scan_101_left",
+    "扫描页": 101,
+    "类别": "数字",
+    "原文": "3",
+    "校正": "2",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "длинные , около 1 / 3 длины тела ( фиг ."
+  },
+  {
+    "物理页": "scan_106_left",
+    "扫描页": 106,
+    "类别": "数字",
+    "原文": "386",
+    "校正": "186",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "386 X . SPERCHONIDAE * 15"
+  },
+  {
+    "物理页": "scan_113_right",
+    "扫描页": 113,
+    "类别": "数字",
+    "原文": "7",
+    "校正": "1",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "7 . LEBERTIA 201 14 ("
+  },
+  {
+    "物理页": "scan_114_left",
+    "扫描页": 114,
+    "类别": "拉丁",
+    "原文": "Pitolebertia",
+    "校正": "Pilolebertia",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "с характерным для подр . Pitolebertia изломом по вентр . стороне"
+  },
+  {
+    "物理页": "scan_114_left",
+    "扫描页": 114,
+    "类别": "数字",
+    "原文": "11",
+    "校正": "1",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "Полов . орган выдается на 11 / 5 — 11 /"
+  },
+  {
+    "物理页": "scan_121_right",
+    "扫描页": 121,
+    "类别": "数字",
+    "原文": "19",
+    "校正": "17",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "shadini Sokolow . 18 ( 19 ) . P_4 б ."
+  },
+  {
+    "物理页": "scan_133_left",
+    "扫描页": 133,
+    "类别": "数字",
+    "原文": "8",
+    "校正": "2",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "ч . на 1 / 8 из широкой генитальной выемки ."
+  },
+  {
+    "物理页": "scan_137_left",
+    "扫描页": 137,
+    "类别": "拉丁",
+    "原文": "Lendblad",
+    "校正": "Lundblad",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ", f . 4 ; Lendblad , 1930 : 31 —"
+  },
+  {
+    "物理页": "scan_148_left",
+    "扫描页": 148,
+    "类别": "拉丁",
+    "原文": "heleticus",
+    "校正": "helveticus",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "Walter , 1924 ; Atractides heleticus S . Thor , 1923"
+  },
+  {
+    "物理页": "scan_148_right",
+    "扫描页": 148,
+    "类别": "拉丁",
+    "原文": "LIMNESIDAE",
+    "校正": "LIMNESIIDAE",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ". XVI . Сем . LIMNESIDAE S . Thor , 1900"
+  },
+  {
+    "物理页": "scan_153_left",
+    "扫描页": 153,
+    "类别": "拉丁",
+    "原文": "pilesa",
+    "校正": "pilosa",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "3 . P . pacifica pilesa Sokolow - 4 ( 3"
+  },
+  {
+    "物理页": "scan_153_left",
+    "扫描页": 153,
+    "类别": "数字",
+    "原文": "1",
+    "校正": "4",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "т . с . равна 1 / 3 дл . тела"
+  },
+  {
+    "物理页": "scan_153_left",
+    "扫描页": 153,
+    "类别": "数字",
+    "原文": "3",
+    "校正": "5",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "с . равна 1 / 3 дл . тела . Обе"
+  },
+  {
+    "物理页": "scan_153_left",
+    "扫描页": 153,
+    "类别": "数字",
+    "原文": "283",
+    "校正": "285",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ": I — 0 . 283 ; II — 0 ."
+  },
+  {
+    "物理页": "scan_156_left",
+    "扫描页": 156,
+    "类别": "数字",
+    "原文": "633",
+    "校正": "653",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "HYGROBATINAE Claus , 1880 : 633 . Тело , как правило"
+  },
+  {
+    "物理页": "scan_161_left",
+    "扫描页": 161,
+    "类别": "数字",
+    "原文": "1897",
+    "校正": "1893",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ", 1898 : 3 ; 1897 : 36 , t ."
+  },
+  {
+    "物理页": "scan_161_left",
+    "扫描页": 161,
+    "类别": "数字",
+    "原文": "1933",
+    "校正": "1935",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ". longiporus apud Viets , 1933 : 259 ) ."
+  },
+  {
+    "物理页": "scan_161_right",
+    "扫描页": 161,
+    "类别": "数字",
+    "原文": "1926",
+    "校正": "1925",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ", 22 ; 1913 ; 1926 . — titubans Koenike ,"
+  },
+  {
+    "物理页": "scan_179_right",
+    "扫描页": 179,
+    "类别": "数字",
+    "原文": "11",
+    "校正": "1",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "хитиновым штифтиком . Эпимеры занимают 11 / 2 вентр . поверхности"
+  },
+  {
+    "物理页": "scan_180_right",
+    "扫描页": 180,
+    "类别": "数字",
+    "原文": "7",
+    "校正": "1",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "7 . UNIONICOLA 335 ОПРЕДЕЛИТЕЛЬНАЯ ТАБЛИЦА"
+  },
+  {
+    "物理页": "scan_182_left",
+    "扫描页": 182,
+    "类别": "数字重复",
+    "原文": "4",
+    "校正": "",
+    "证据": "两对照模型均无此token且本页重复出现",
+    "上下文": ", загнутые назад . Имеются 4 многочисленные длинные и упругие волоскообразные"
+  },
+  {
+    "物理页": "scan_186_left",
+    "扫描页": 186,
+    "类别": "数字",
+    "原文": "11",
+    "校正": "1",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ". Эпимеры занимают не более 11 / 2 вентр . поверхности"
+  },
+  {
+    "物理页": "scan_187_left",
+    "扫描页": 187,
+    "类别": "拉丁",
+    "原文": "Atux",
+    "校正": "Atax",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ", f . 1 ( Atux ) . ♂ . Дл"
+  },
+  {
+    "物理页": "scan_190_right",
+    "扫描页": 190,
+    "类别": "拉丁",
+    "原文": "Acerous",
+    "校正": "Acercus",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "1837 , part . — Acerous auct . , part ."
+  },
+  {
+    "物理页": "scan_191_right",
+    "扫描页": 191,
+    "类别": "数字",
+    "原文": "7",
+    "校正": "1",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "7 . FORELIA 357 * 2"
+  },
+  {
+    "物理页": "scan_194_right",
+    "扫描页": 194,
+    "类别": "拉丁",
+    "原文": "discrepaus",
+    "校正": "discrepans",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "* 19 . P . discrepaus ( Koen . ) ."
+  },
+  {
+    "物理页": "scan_195_right",
+    "扫描页": 195,
+    "类别": "拉丁",
+    "原文": "centroversiosa",
+    "校正": "controversiosa",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "P . uncata var . centroversiosa ( Piers . ) ."
+  },
+  {
+    "物理页": "scan_195_right",
+    "扫描页": 195,
+    "类别": "拉丁",
+    "原文": "stijordalensis",
+    "校正": "stjördalensis",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "P . coccinea var . stijordalensis ( S . Thor )"
+  },
+  {
+    "物理页": "scan_196_left",
+    "扫描页": 196,
+    "类别": "数字",
+    "原文": "36",
+    "校正": "35",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ". 14 , f . 36 ; Soar and Williamson ,"
+  },
+  {
+    "物理页": "scan_196_left",
+    "扫描页": 196,
+    "类别": "拉丁",
+    "原文": "Nesnea",
+    "校正": "Nesaea",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ". 2 — 4 ( Nesnea ) . ♂ . Дл"
+  },
+  {
+    "物理页": "scan_196_right",
+    "扫描页": 196,
+    "类别": "拉丁",
+    "原文": "Koenlike",
+    "校正": "Koenike",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "38 a — h ; Koenlike , 1939 : 127 ,"
+  },
+  {
+    "物理页": "scan_202_right",
+    "扫描页": 202,
+    "类别": "数字重复",
+    "原文": "1",
+    "校正": "",
+    "证据": "两对照模型均无此token且本页重复出现",
+    "上下文": "очень обычна в болотах , 1 лужах и канавах окр ."
+  },
+  {
+    "物理页": "scan_208_right",
+    "扫描页": 208,
+    "类别": "数字",
+    "原文": "1",
+    "校正": "14",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "ACERCUS и PIONOPSIS 1 ( 1 ) \\ delta . Задн"
+  },
+  {
+    "物理页": "scan_212_right",
+    "扫描页": 212,
+    "类别": "数字",
+    "原文": "4",
+    "校正": "3",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ". 41 , f . 4 — 4 ; t ."
+  },
+  {
+    "物理页": "scan_213_left",
+    "扫描页": 213,
+    "类别": "数字",
+    "原文": "11",
+    "校正": "1",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "отсутствуют . Эпимеры ок . 11 / 2 дл . тела"
+  },
+  {
+    "物理页": "scan_218_right",
+    "扫描页": 218,
+    "类别": "数字",
+    "原文": "253",
+    "校正": "255",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ", 1898 — 1900 : 253 , t . 27 ,"
+  },
+  {
+    "物理页": "scan_219_left",
+    "扫描页": 219,
+    "类别": "数字",
+    "原文": "42",
+    "校正": "412",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "42 XXIII . AXONOPSIDAE полов ."
+  },
+  {
+    "物理页": "scan_230_left",
+    "扫描页": 230,
+    "类别": "拉丁",
+    "原文": "edeniator",
+    "校正": "edentator",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "* 24 . A . edeniator Berl 30 ( 27 )"
+  },
+  {
+    "物理页": "scan_231_right",
+    "扫描页": 231,
+    "类别": "拉丁",
+    "原文": "bisulicodulus",
+    "校正": "bisulcicodulus",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "* 50 . A . bisulicodulus Piers . 13 ( 12"
+  },
+  {
+    "物理页": "scan_234_right",
+    "扫描页": 234,
+    "类别": "拉丁",
+    "原文": "Hydrochna",
+    "校正": "Hydrachna",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "188 , № 2243 ( Hydrochna ) ; Lundblad , 1920"
+  },
+  {
+    "物理页": "scan_244_right",
+    "扫描页": 244,
+    "类别": "数字",
+    "原文": "463",
+    "校正": "465",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "2 . ARRHENURUS 463 ( Удальцов , 1907 ;"
+  },
+  {
+    "物理页": "scan_247_left",
+    "扫描页": 247,
+    "类别": "数字",
+    "原文": "335",
+    "校正": "355",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ", 1898 — 1900 : 335 , f . 36 ,"
+  },
+  {
+    "物理页": "scan_254_left",
+    "扫描页": 254,
+    "类别": "拉丁",
+    "原文": "Ptona",
+    "校正": "Piona",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ", wo die überwältigende Rolle Ptona rotunda spielte , während die"
+  },
+  {
+    "物理页": "scan_254_right",
+    "扫描页": 254,
+    "类别": "拉丁",
+    "原文": "Linnocharae",
+    "校正": "Limnocharae",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "Sperchonidae nicht als Vertreter der Linnocharae ( s . l ."
+  },
+  {
+    "物理页": "scan_255_right",
+    "扫描页": 255,
+    "类别": "拉丁",
+    "原文": "werter",
+    "校正": "unter",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ". Genitalorgan typisch gebaut , werter der Vulva mit zahlreichen ziemlich"
+  },
+  {
+    "物理页": "scan_256_left",
+    "扫描页": 256,
+    "类别": "拉丁",
+    "原文": "verschieden",
+    "校正": "verschiedenen",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "Linierung und ausserdem dicht mit verschieden grossen Papillen von unregelmässiger und"
+  },
+  {
+    "物理页": "scan_256_left",
+    "扫描页": 256,
+    "类别": "拉丁",
+    "原文": "Eimbiegung",
+    "校正": "Einbiegung",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "des Maxillarorgans mit einer leichten Eimbiegung . Mandibel etwa 0 ,"
+  },
+  {
+    "物理页": "scan_256_left",
+    "扫描页": 256,
+    "类别": "拉丁",
+    "原文": "hur",
+    "校正": "nur",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "Hautstruktur wie beim ♂ , hur verschwinden an der Ventralseite die"
+  },
+  {
+    "物理页": "scan_258_left",
+    "扫描页": 258,
+    "类别": "数字",
+    "原文": "074",
+    "校正": "74",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "Ihre Längen : 1 . 074 ; II 0 . 82"
+  },
+  {
+    "物理页": "scan_262_left",
+    "扫描页": 262,
+    "类别": "拉丁",
+    "原文": "Hydrovolazia",
+    "校正": "Hydrovolzia",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "Lebert 297 . cancellata , Hydrovolazia 56 . cancellata , Thyas"
+  },
+  {
+    "物理页": "scan_262_left",
+    "扫描页": 262,
+    "类别": "数字",
+    "原文": "236",
+    "校正": "286",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "Capobates , S . Thor 236 . carnea , Nesaea 376"
+  },
+  {
+    "物理页": "scan_262_left",
+    "扫描页": 262,
+    "类别": "数字",
+    "原文": "378",
+    "校正": "387",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ". coacta , Piona conglobata 378 . clypeolatus , Panisus 140"
+  },
+  {
+    "物理页": "scan_262_right",
+    "扫描页": 262,
+    "类别": "拉丁",
+    "原文": "Duralinnesia",
+    "校正": "Duralimnesia",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "duplex , Eylais 90 . Duralinnesia , Viets 271 , 272"
+  },
+  {
+    "物理页": "scan_263_left",
+    "扫描页": 263,
+    "类别": "拉丁",
+    "原文": "Mononia",
+    "校正": "Momonia",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ", 375 . falcipalpis , Mononia 421 . fallax , Piona"
+  },
+  {
+    "物理页": "scan_263_left",
+    "扫描页": 263,
+    "类别": "数字",
+    "原文": "338",
+    "校正": "330",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "figuralis , Unionicola 24 , 338 . fimbriata , Lebertia 217"
+  },
+  {
+    "物理页": "scan_263_right",
+    "扫描页": 263,
+    "类别": "拉丁",
+    "原文": "Hyridalia",
+    "校正": "Hjartdalia",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "histrionica , Linnesia 273 . Hyridalia , S . Thor 416"
+  },
+  {
+    "物理页": "scan_263_right",
+    "扫描页": 263,
+    "类别": "拉丁",
+    "原文": "Linnochares",
+    "校正": "Limnochares",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "Lebertia 240 . holosericea , Linnochares 57 . holsatica , Lebertia"
+  },
+  {
+    "物理页": "scan_264_left",
+    "扫描页": 264,
+    "类别": "数字",
+    "原文": "238",
+    "校正": "338",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "236 . inusitata , Unionicola 238 . invalvaris , Protzia 95"
+  },
+  {
+    "物理页": "scan_264_left",
+    "扫描页": 264,
+    "类别": "拉丁",
+    "原文": "Woloctt",
+    "校正": "Wolcott",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "Atax 336 . Koenikea , Woloctt 339 . koenikei , Eylais"
+  },
+  {
+    "物理页": "scan_264_left",
+    "扫描页": 264,
+    "类别": "拉丁",
+    "原文": "Hydrochroeutes",
+    "校正": "Hydrochoreutes",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ", 416 . krameri , Hydrochroeutes 25 , 389 , 390"
+  },
+  {
+    "物理页": "scan_264_left",
+    "扫描页": 264,
+    "类别": "拉丁",
+    "原文": "lepneyae",
+    "校正": "lepnevae",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "leioderma , Lebertia 216 . lepneyae , Lebertia 200 , 209"
+  },
+  {
+    "物理页": "scan_264_right",
+    "扫描页": 264,
+    "类别": "拉丁",
+    "原文": "Abractides",
+    "校正": "Atractides",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": ", 296 . longirostris , Abractides 270 . longirostris , Sperchon"
+  },
+  {
+    "物理页": "scan_265_left",
+    "扫描页": 265,
+    "类别": "拉丁",
+    "原文": "nassonovi",
+    "校正": "nassonowi",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "288 . Najadicolinae 329 . nassonovi , Arrhenurus 438 , 476"
+  },
+  {
+    "物理页": "scan_265_left",
+    "扫描页": 265,
+    "类别": "数字重复",
+    "原文": "2",
+    "校正": "",
+    "证据": "两对照模型均无此token且本页重复出现",
+    "上下文": "oblonga , Zschokkea 135 . 2"
+  },
+  {
+    "物理页": "scan_265_right",
+    "扫描页": 265,
+    "类别": "拉丁",
+    "原文": "Atorus",
+    "校正": "Aturus",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "Atractides 314 . ovalis , Atorus 416 . ovalis , Megapus"
+  },
+  {
+    "物理页": "scan_266_left",
+    "扫描页": 266,
+    "类别": "拉丁",
+    "原文": "rostus",
+    "校正": "robustus",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "romijni , Axonopsis 408 . rostus , Megapus nodipalpis 310 ,"
+  },
+  {
+    "物理页": "scan_267_right",
+    "扫描页": 267,
+    "类别": "拉丁",
+    "原文": "Liania",
+    "校正": "Ljania",
+    "证据": "Qwen与Paddle读法完全一致且异于Surya",
+    "上下文": "Diplodontus 166 . thori , Liania 408 . thori , Panisopsis"
+  }
+]

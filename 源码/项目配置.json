@@ -1,0 +1,9 @@
+{
+  "book_id": "sokolow_1940",
+  "pdf": "../最终成果/黑白阅读版.pdf",
+  "page_order": "../制作资料/页序.json",
+  "manifest": "../文件清单.json",
+  "sha256": "6eaeb26e1c9dbd3dd066268a459c91cdf3c2108d500fe6a2d08ae5cc90721c3a",
+  "pages": 535,
+  "bytes": 51421643
+}

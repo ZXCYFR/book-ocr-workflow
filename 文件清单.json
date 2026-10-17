@@ -1,0 +1,1528 @@
+{
+  "schema_version": 1,
+  "book_id": "sokolow_1940",
+  "release": "v1.0.0",
+  "scope": "完整公开归档；本地另保留模型、环境、高清PDF和高清图，不列入上传清单",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 116,
+      "sha256": "ee7d2728818c310906a492f9d27afb0263471bf303d9f2495dbae1cf6913591d"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 811,
+      "sha256": "1a1ec70bbf6005dc42677a8fea2699f0c4436ea2d5352078497e90789ff362c2"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7721,
+      "sha256": "526c36c79288896625be6cb7507844133a0fafd6a2c070afdd57bc3e6cdcaf26"
+    },
+    {
+      "path": "tests/test_archive.py",
+      "bytes": 1950,
+      "sha256": "448706b7dae93a262a61ab0f451e4d30006dafdd2e40c886fce8f5a8668db225"
+    },
+    {
+      "path": "tests/test_delivery.py",
+      "bytes": 6548,
+      "sha256": "56b216ee79737fdee07c5829839cd1d6bb5cd0ea60c0bdaaccf2ccaa24a3b08d"
+    },
+    {
+      "path": "tests/test_rendering.py",
+      "bytes": 7933,
+      "sha256": "c379b91ba415ece3d68cbc2cc6776fdfe76e30c162466f6216a6943269c7402b"
+    },
+    {
+      "path": "tests/test_workflow.py",
+      "bytes": 3199,
+      "sha256": "603ee386fb562f3e76b824ac0e16254b8f43d5943a97a4d4c566a7796658649e"
+    },
+    {
+      "path": "制作资料/逐页制作材料.jsonl",
+      "bytes": 28573597,
+      "sha256": "1289272db452ee3e26b50a4192946c74d65d7afa22eac8a753e31de1651796b1"
+    },
+    {
+      "path": "制作资料/页序.json",
+      "bytes": 219006,
+      "sha256": "9288e527710c57f81d080a857dec281d665e061af1dc065d70e0987f127afc39"
+    },
+    {
+      "path": "原始资料/Sokolow 1940.djvu",
+      "bytes": 8932482,
+      "sha256": "b2938950e1357469f8166096a89b1bfe044fedf0f48896a6efacc25834e1c3bc"
+    },
+    {
+      "path": "原始资料/Sokolow_1940_原书扫描.pdf",
+      "bytes": 100977407,
+      "sha256": "3629a8918f63b107e6d611c09e5045637eed0c2f9efc502955cac71bb34f51cb"
+    },
+    {
+      "path": "原始资料/page_manifest.json",
+      "bytes": 27499,
+      "sha256": "14c74ba9791c627c4401af703187723d92eafb540f98b6bb55b5a1952d99c87c"
+    },
+    {
+      "path": "原始资料/扫描页/scan_001.png",
+      "bytes": 3773735,
+      "sha256": "017888448d82e1bc69394459956bee8bbd996063ce2648b8eeee9a23f7487ad7"
+    },
+    {
+      "path": "原始资料/扫描页/scan_002.png",
+      "bytes": 74012,
+      "sha256": "1dca3c14e9a016ac0c18610f7abd0659cc997d9b412de8a9c7d4d04fa270a4c2"
+    },
+    {
+      "path": "原始资料/扫描页/scan_003.png",
+      "bytes": 164535,
+      "sha256": "6ef16979aaafeb6667a0c3491fd6c427f01c213a818870a49b0bea5cf27f1ef8"
+    },
+    {
+      "path": "原始资料/扫描页/scan_004.png",
+      "bytes": 194950,
+      "sha256": "e12df055fb7a37e06aeee345ce852ecb8f16b4371dd370cdbaca4ab042c779ba"
+    },
+    {
+      "path": "原始资料/扫描页/scan_005.png",
+      "bytes": 60749,
+      "sha256": "682eeabec34d2637888f40712f0eaa5e9f5644f7d17b85d64d0402397693d130"
+    },
+    {
+      "path": "原始资料/扫描页/scan_006.png",
+      "bytes": 153544,
+      "sha256": "f3f98fb801ea5c68d51e955b4d676f5bbc968505c36700449a10b26ce656ebe4"
+    },
+    {
+      "path": "原始资料/扫描页/scan_007.png",
+      "bytes": 142263,
+      "sha256": "9e974f96921d80bf112dd56b9de31f515fbbb668f7d1013e59e83dd2f4a65243"
+    },
+    {
+      "path": "原始资料/扫描页/scan_008.png",
+      "bytes": 163959,
+      "sha256": "ae00aa2a4090668cf6a54d06a51fdb49e4df55a2e55fdbb6b9fb17301de5ed62"
+    },
+    {
+      "path": "原始资料/扫描页/scan_009.png",
+      "bytes": 173954,
+      "sha256": "994cb88dcac3f054ca83490497f0eb2c556cc3554a1e21304a9f6fb2e0ba2f09"
+    },
+    {
+      "path": "原始资料/扫描页/scan_010.png",
+      "bytes": 180793,
+      "sha256": "2dd53fea6770b5cbc2a053c80b454d03d1d8ea1df53aa711485d6c3b3458e02b"
+    },
+    {
+      "path": "原始资料/扫描页/scan_011.png",
+      "bytes": 160074,
+      "sha256": "8b89660e34f857b68fd96bef4be5de72ecb9f1f024dfe984a1f258ba5700f006"
+    },
+    {
+      "path": "原始资料/扫描页/scan_012.png",
+      "bytes": 154046,
+      "sha256": "60e0b6012f5a10168ae39b067d3394763ea0c4b97fc1b2a9bca7d869fa2cc82b"
+    },
+    {
+      "path": "原始资料/扫描页/scan_013.png",
+      "bytes": 209832,
+      "sha256": "35c2db843a51c34ecf0f68cf6b7517564689a7b1f5e936d0d6aaaf6376845d1f"
+    },
+    {
+      "path": "原始资料/扫描页/scan_014.png",
+      "bytes": 319990,
+      "sha256": "11f069a21bc46875ffb0976a9d8cd57e3c404f2a14783e8eb7f8f308ba571087"
+    },
+    {
+      "path": "原始资料/扫描页/scan_015.png",
+      "bytes": 332779,
+      "sha256": "81de79fffde20d71b65930613b5a4f4a8ef6365484bd11645e4a6447a49f6544"
+    },
+    {
+      "path": "原始资料/扫描页/scan_016.png",
+      "bytes": 324869,
+      "sha256": "d316a0b26cefeb706c9160d8df5cf76a36a2d7a4c320776a710fa98850a1d174"
+    },
+    {
+      "path": "原始资料/扫描页/scan_017.png",
+      "bytes": 333824,
+      "sha256": "48349494e46ce8b768c6908f62cfc8ea93bc22d39ff69d4e62daa16f8ed12d81"
+    },
+    {
+      "path": "原始资料/扫描页/scan_018.png",
+      "bytes": 312464,
+      "sha256": "501ca55a244c0cfd7cdd5c03bd73d1c9055ebdc8bf290b20f313d9f6be25ea31"
+    },
+    {
+      "path": "原始资料/扫描页/scan_019.png",
+      "bytes": 333112,
+      "sha256": "b548428d4481f5b80585249979ff7b26e642a65565e54d70885597ccebd19fe5"
+    },
+    {
+      "path": "原始资料/扫描页/scan_020.png",
+      "bytes": 312803,
+      "sha256": "3cd699dfa428341dc6451227ee901d1f3dc9fe1a806c4fe7db469d419dd95544"
+    },
+    {
+      "path": "原始资料/扫描页/scan_021.png",
+      "bytes": 319337,
+      "sha256": "3068b0279c00098e924288f06d035c395689b86cef89f50bdc1d7348a633ad79"
+    },
+    {
+      "path": "原始资料/扫描页/scan_022.png",
+      "bytes": 325476,
+      "sha256": "9748cca8488a02e663eb8e755d95ad0fc8fce57d02ae5f10548ba05493163fad"
+    },
+    {
+      "path": "原始资料/扫描页/scan_023.png",
+      "bytes": 329696,
+      "sha256": "8c797016da9f1a6285848252625df1a5622fe609def6634575546ff7968edf71"
+    },
+    {
+      "path": "原始资料/扫描页/scan_024.png",
+      "bytes": 302463,
+      "sha256": "54b85c7f3ec36b3daca0a4cfaa83dd419aac14f253ad6381167f4a5785221868"
+    },
+    {
+      "path": "原始资料/扫描页/scan_025.png",
+      "bytes": 337308,
+      "sha256": "fb29192374fde5e3f5dc1d905ec1007656853fff2cc59b795baaa63280abaf87"
+    },
+    {
+      "path": "原始资料/扫描页/scan_026.png",
+      "bytes": 314623,
+      "sha256": "1682e76f8facc3ee60a3c2213d3d8f99941e890ef708152e6be63017bddcabc5"
+    },
+    {
+      "path": "原始资料/扫描页/scan_027.png",
+      "bytes": 307037,
+      "sha256": "960a0aacc6f2fceefd3fbd149e36ffa36e8e7ab32679134424909bd957386218"
+    },
+    {
+      "path": "原始资料/扫描页/scan_028.png",
+      "bytes": 322867,
+      "sha256": "1fb57bb7d30a307defd699060e9043c57548ba5ab400979c323e1a6236ac6f23"
+    },
+    {
+      "path": "原始资料/扫描页/scan_029.png",
+      "bytes": 292632,
+      "sha256": "041f89631cef6f8c6232a31883a9cb56c5963ae1524d3a92de582615ccfc957c"
+    },
+    {
+      "path": "原始资料/扫描页/scan_030.png",
+      "bytes": 295037,
+      "sha256": "96923dbda8ffae9a4d93b1d3ad7a9c1b2f6b2439c02e5b908f828e30ad0fb12d"
+    },
+    {
+      "path": "原始资料/扫描页/scan_031.png",
+      "bytes": 310375,
+      "sha256": "2a1a5c5df956077a5ddb74beb0bfe6a819ff68ced0e13165d25b820954e32271"
+    },
+    {
+      "path": "原始资料/扫描页/scan_032.png",
+      "bytes": 271142,
+      "sha256": "2e2d8f027874cda4d41125d3de48ae539aa1a6b0fe16a3849b1ae5b1f889bc99"
+    },
+    {
+      "path": "原始资料/扫描页/scan_033.png",
+      "bytes": 297927,
+      "sha256": "33d89c44e5f3e5cde0bd8ac76abd82bf001257384f5efa304a3e988211fbdb2c"
+    },
+    {
+      "path": "原始资料/扫描页/scan_034.png",
+      "bytes": 296049,
+      "sha256": "bc95ce368cddc7104146d3684ca30301d46437099527de6a927dd0348a4b73b0"
+    },
+    {
+      "path": "原始资料/扫描页/scan_035.png",
+      "bytes": 246094,
+      "sha256": "5f0084ef617fdc9e149b0bcc8076ccf12bcc5985cbc2e2c901fd6aa0c2c9d68b"
+    },
+    {
+      "path": "原始资料/扫描页/scan_036.png",
+      "bytes": 158653,
+      "sha256": "f4923363c36d7a539b26ee27eb17cc778232159e343c2771e7211b1789dfbebb"
+    },
+    {
+      "path": "原始资料/扫描页/scan_037.png",
+      "bytes": 287934,
+      "sha256": "0d060ee33c3fbd8041094013c11c796bc37361b54881c21a25bdc547ad550b13"
+    },
+    {
+      "path": "原始资料/扫描页/scan_038.png",
+      "bytes": 298537,
+      "sha256": "12c3c3ff98f193f9ce790e044b6c94eeb59bf68ad6b54d3b9e2e59a5577252dc"
+    },
+    {
+      "path": "原始资料/扫描页/scan_039.png",
+      "bytes": 280411,
+      "sha256": "4680e1ed4a2ba15fea4d2e1efcd1a7b6df6b300a92d07f3831c57091c176df70"
+    },
+    {
+      "path": "原始资料/扫描页/scan_040.png",
+      "bytes": 277838,
+      "sha256": "3627988e78100917c1ce58c14cacab32e7549c7727b1ffb2c54d7e3b912fb471"
+    },
+    {
+      "path": "原始资料/扫描页/scan_041.png",
+      "bytes": 254524,
+      "sha256": "33ffad406ed9d43087e472ee7105fd1702a6a0fe919ad72152ad0af9f4d4343c"
+    },
+    {
+      "path": "原始资料/扫描页/scan_042.png",
+      "bytes": 282525,
+      "sha256": "ade7b8f8245059b1906b45c7c5fece7415356fd7bde199efcd2abe9b69dfdb8f"
+    },
+    {
+      "path": "原始资料/扫描页/scan_043.png",
+      "bytes": 312660,
+      "sha256": "ef01699ca6611d490647ce72251b94432b15ddd72bb72855043f0708a48d1018"
+    },
+    {
+      "path": "原始资料/扫描页/scan_044.png",
+      "bytes": 282960,
+      "sha256": "ea32afa421e5f549ecf8be47c66923ccf0be4092cd09ee570589560d67bd9974"
+    },
+    {
+      "path": "原始资料/扫描页/scan_045.png",
+      "bytes": 305552,
+      "sha256": "97ef7aec075cea1aaa73bb2631d1bd57d0e932c226999b6d50f7c5ba24c5be11"
+    },
+    {
+      "path": "原始资料/扫描页/scan_046.png",
+      "bytes": 298869,
+      "sha256": "b02c25422a7ac34698d790293aafaedacc8230a1c2c8e1acd5ac40b1d86e31fe"
+    },
+    {
+      "path": "原始资料/扫描页/scan_047.png",
+      "bytes": 312879,
+      "sha256": "74d2518413ea2568723b3b0fca68fa4369f0737c263b112c48e9836924facf8e"
+    },
+    {
+      "path": "原始资料/扫描页/scan_048.png",
+      "bytes": 314447,
+      "sha256": "e10726d8fab23b9dba2db243fba532cd9dec213231ba068adcafa072425671f6"
+    },
+    {
+      "path": "原始资料/扫描页/scan_049.png",
+      "bytes": 300482,
+      "sha256": "27dfa5cf9d6b41c2330c20543827fc2820d37144ab18132b2470c0adc065b963"
+    },
+    {
+      "path": "原始资料/扫描页/scan_050.png",
+      "bytes": 299317,
+      "sha256": "eaa9849f3887a9785eb472b3cc2dd3780de48de761ad64830b3b1804d3130917"
+    },
+    {
+      "path": "原始资料/扫描页/scan_051.png",
+      "bytes": 293606,
+      "sha256": "497486249cebfd88c051e917d2007ba36e33b73eeff9cd417c9bb0a03f32dc9d"
+    },
+    {
+      "path": "原始资料/扫描页/scan_052.png",
+      "bytes": 301008,
+      "sha256": "2a4be6cf70eaf33bb7e76360d3dc511799bab409125463dae02be1f64dc18eb6"
+    },
+    {
+      "path": "原始资料/扫描页/scan_053.png",
+      "bytes": 313091,
+      "sha256": "be7326c67e755a2188ff1f94f7a48ccecd7c300e6dace937a69d5547e1a617e7"
+    },
+    {
+      "path": "原始资料/扫描页/scan_054.png",
+      "bytes": 292179,
+      "sha256": "679730ef129b02e1e69787bf97e590b9be0417e06af7d18ee09eb4664a141e89"
+    },
+    {
+      "path": "原始资料/扫描页/scan_055.png",
+      "bytes": 297947,
+      "sha256": "829034d7a04d3aa0dd64ac5211a6a2dee8b1c5246c66fd0e6ce5a5920a493fa4"
+    },
+    {
+      "path": "原始资料/扫描页/scan_056.png",
+      "bytes": 291648,
+      "sha256": "e56ddc4d832745d7a945e3ddbd0af8879c849b816b31d89d3cceee127f9acbf7"
+    },
+    {
+      "path": "原始资料/扫描页/scan_057.png",
+      "bytes": 297688,
+      "sha256": "7c9d26d0e5a6bb252ace07f2edd06de16093d93624fc598011bfd05440045c4c"
+    },
+    {
+      "path": "原始资料/扫描页/scan_058.png",
+      "bytes": 289252,
+      "sha256": "ca19ddffcecc3f80e3b507db6edb608283bbab761cf538f4475e1308d2eb1266"
+    },
+    {
+      "path": "原始资料/扫描页/scan_059.png",
+      "bytes": 289997,
+      "sha256": "4179420dce70c2649b30046c1cdd4308e7b149787aef25480137c01451230191"
+    },
+    {
+      "path": "原始资料/扫描页/scan_060.png",
+      "bytes": 277859,
+      "sha256": "84bcc027bf308e1b6cb1e725ba7ff0825dc19f7f6ec58e3db550b6f7f9e580d6"
+    },
+    {
+      "path": "原始资料/扫描页/scan_061.png",
+      "bytes": 300242,
+      "sha256": "a21af4801c9d9e265a3c6bf3dde028a1db0d7b23514ab5bffc66936523e64c3b"
+    },
+    {
+      "path": "原始资料/扫描页/scan_062.png",
+      "bytes": 266087,
+      "sha256": "9ef0dee916b21b3e90bd82ef8e82d6359218c54f79d22e205d60d4aeb987294a"
+    },
+    {
+      "path": "原始资料/扫描页/scan_063.png",
+      "bytes": 273878,
+      "sha256": "b3b6dec3679a475d819374041648fcdf0ba2ee38f473795a1f7308fc22f52dec"
+    },
+    {
+      "path": "原始资料/扫描页/scan_064.png",
+      "bytes": 305373,
+      "sha256": "18f4f450f0c3253edabcd17351710d4c6a660abb2a4f3c36363cc6d352afd8aa"
+    },
+    {
+      "path": "原始资料/扫描页/scan_065.png",
+      "bytes": 277236,
+      "sha256": "bf2902d6d89e352eeb2ad1876bc0d9db3ca0df244b4f1ca1422bde7cb4b6e6ef"
+    },
+    {
+      "path": "原始资料/扫描页/scan_066.png",
+      "bytes": 268370,
+      "sha256": "1054f05ef560f1456f581eb73f1236d078040c919b14789f38dfc96cfa88e8e0"
+    },
+    {
+      "path": "原始资料/扫描页/scan_067.png",
+      "bytes": 293184,
+      "sha256": "1cb3749515cace9670114d1975f856e1b54e8bc38108bb7861f2ced50a678d32"
+    },
+    {
+      "path": "原始资料/扫描页/scan_068.png",
+      "bytes": 286514,
+      "sha256": "a1d6bd65bdb25862fde408b251942eea3fa4db52693ba47f6b601844ffdb3760"
+    },
+    {
+      "path": "原始资料/扫描页/scan_069.png",
+      "bytes": 284723,
+      "sha256": "21c556963a647df5cad8778c6182324b4f745ff53edbf30ce6f7d7283129dc05"
+    },
+    {
+      "path": "原始资料/扫描页/scan_070.png",
+      "bytes": 246496,
+      "sha256": "4a8d37782a40795e29af9c322218c935dadccca9bb2eca073f8dd38d3057204b"
+    },
+    {
+      "path": "原始资料/扫描页/scan_071.png",
+      "bytes": 303130,
+      "sha256": "10ca5ad616415ff534d4a072ca594cfefc660e13c68a407c509a527cc1ac43c5"
+    },
+    {
+      "path": "原始资料/扫描页/scan_072.png",
+      "bytes": 277073,
+      "sha256": "adec458159a80d4a2dd53709c41ad57c8ac98a8824c3ac7a5920af790e3432c1"
+    },
+    {
+      "path": "原始资料/扫描页/scan_073.png",
+      "bytes": 287724,
+      "sha256": "c1b7376343b8fc20284cac54d3da3b99ff1ddaffea4e1f877f7714257fe70c47"
+    },
+    {
+      "path": "原始资料/扫描页/scan_074.png",
+      "bytes": 264009,
+      "sha256": "2430bdd6ccba87097b21fa19f05c4cef2ce746b6a66cacc02d4650f87ae24f0f"
+    },
+    {
+      "path": "原始资料/扫描页/scan_075.png",
+      "bytes": 276787,
+      "sha256": "b72de8894da6650597c9755449916247524aa91cde93af98e3f129b26a000a5f"
+    },
+    {
+      "path": "原始资料/扫描页/scan_076.png",
+      "bytes": 278480,
+      "sha256": "10179a5bd9722660280074bae09c3166f62967e03e968ec413b70519ffc43e12"
+    },
+    {
+      "path": "原始资料/扫描页/scan_077.png",
+      "bytes": 320950,
+      "sha256": "76406514da11485b885d1b7a31d6d287f89cd6f7d4a32d3acd0ad0ae885e402f"
+    },
+    {
+      "path": "原始资料/扫描页/scan_078.png",
+      "bytes": 292205,
+      "sha256": "8658b9fcf2e20777e97ed74e114788b6d87d8793c7ffdd425aea038040438496"
+    },
+    {
+      "path": "原始资料/扫描页/scan_079.png",
+      "bytes": 283541,
+      "sha256": "470ceeab89ca3bc48cf57e1864b906a932c514a7fa26148be25f1241dc704ba8"
+    },
+    {
+      "path": "原始资料/扫描页/scan_080.png",
+      "bytes": 282874,
+      "sha256": "2481584212ab94d844c058c4461f6adb252812d10649016f154bdb47c82ed022"
+    },
+    {
+      "path": "原始资料/扫描页/scan_081.png",
+      "bytes": 302947,
+      "sha256": "3e3b4b8479c62d29b75e3faa04bb6d95ef30bf261cac7a4f79439fd69986dc8b"
+    },
+    {
+      "path": "原始资料/扫描页/scan_082.png",
+      "bytes": 300947,
+      "sha256": "5f35ef175199e6c3a08814c62d78131bf2a1972ff067df97c173f44050842a05"
+    },
+    {
+      "path": "原始资料/扫描页/scan_083.png",
+      "bytes": 292028,
+      "sha256": "ca0d267f09279a9ae0a0500e5135c88707b108c3cf71f55cdf6a042af1c7932a"
+    },
+    {
+      "path": "原始资料/扫描页/scan_084.png",
+      "bytes": 267826,
+      "sha256": "1f92074d9a5686446b2345602cba001cc848b7d345c14c0991558ea778b43700"
+    },
+    {
+      "path": "原始资料/扫描页/scan_085.png",
+      "bytes": 295090,
+      "sha256": "436e7d58cbfa5bc93d9a6b1423ff6e29bc114b1f6982b29364b110ff7021ea5a"
+    },
+    {
+      "path": "原始资料/扫描页/scan_086.png",
+      "bytes": 317053,
+      "sha256": "6053370388e31ddb7d16c6d30f7f1d8e320958a4e897b5db1ed79b7638d54772"
+    },
+    {
+      "path": "原始资料/扫描页/scan_087.png",
+      "bytes": 301854,
+      "sha256": "0c476f2c524adb67df4bb5ea133680a498e9b6f58ee1bafb11a24983651c9f19"
+    },
+    {
+      "path": "原始资料/扫描页/scan_088.png",
+      "bytes": 280067,
+      "sha256": "bec35d1b49cd901dcefd844c1d8027627917b66fc7c3390dea89cf5dae79e85b"
+    },
+    {
+      "path": "原始资料/扫描页/scan_089.png",
+      "bytes": 309306,
+      "sha256": "4a684e64c547eae300fd6fc3af20fae99d37e76a2b334f0664f2bd8aebd94b27"
+    },
+    {
+      "path": "原始资料/扫描页/scan_090.png",
+      "bytes": 282303,
+      "sha256": "729e2ccd906a0d385a4dd5bec64f376f89db012054d95ebce947cce60d9b2cc6"
+    },
+    {
+      "path": "原始资料/扫描页/scan_091.png",
+      "bytes": 297876,
+      "sha256": "beed42bc3a2ff204b8ec9ece53c257f706fdd3a61577c1c5369c099425d15ecf"
+    },
+    {
+      "path": "原始资料/扫描页/scan_092.png",
+      "bytes": 286187,
+      "sha256": "4942487f1f515c1d8cbafb80091b9d81f14dc115f6dcd05baa9f5b917e33c627"
+    },
+    {
+      "path": "原始资料/扫描页/scan_093.png",
+      "bytes": 309237,
+      "sha256": "10c211204e4013d0a6dd4b33a52a789effeb365c9b2dc188738e9b552afe4c6f"
+    },
+    {
+      "path": "原始资料/扫描页/scan_094.png",
+      "bytes": 292159,
+      "sha256": "ce6edf380d21c44b393c19beca5fdbfabcb07d58fb895bcf05a390de1e3669f6"
+    },
+    {
+      "path": "原始资料/扫描页/scan_095.png",
+      "bytes": 317046,
+      "sha256": "612664243022442172991889d48c16b7ac5106af47163466b4a8f4c6cb3efcc3"
+    },
+    {
+      "path": "原始资料/扫描页/scan_096.png",
+      "bytes": 289992,
+      "sha256": "983d8f496c761f3b7317e164917b578753c29b02ad83276fa51cc421f086821a"
+    },
+    {
+      "path": "原始资料/扫描页/scan_097.png",
+      "bytes": 296371,
+      "sha256": "e547afc674968cdbf3d155bad2529e9866db3515f8ba35dca2340cbb561f8bba"
+    },
+    {
+      "path": "原始资料/扫描页/scan_098.png",
+      "bytes": 276444,
+      "sha256": "385f7156c1dfceaff47a1a83234cf8bd9f4b9620156196784e686a231458833e"
+    },
+    {
+      "path": "原始资料/扫描页/scan_099.png",
+      "bytes": 298275,
+      "sha256": "dfc4c0ff138dedcdf60fbcd9b3b8045a08320b7cfe8a3789031eeaf803fcd5d9"
+    },
+    {
+      "path": "原始资料/扫描页/scan_100.png",
+      "bytes": 297087,
+      "sha256": "278264796bef9610e4e95d2af655fc97264f921ccacbef49d3dc3cc8b2f75264"
+    },
+    {
+      "path": "原始资料/扫描页/scan_101.png",
+      "bytes": 302710,
+      "sha256": "e2d5af5ee849b4ec6e640fe8609061e0f0256f59ec4428d910d1ec11ebf097ed"
+    },
+    {
+      "path": "原始资料/扫描页/scan_102.png",
+      "bytes": 291374,
+      "sha256": "b8df86a82a5ec092ca3694b3ced5bafb175f7cbc950259e5982b9c8222bba77d"
+    },
+    {
+      "path": "原始资料/扫描页/scan_103.png",
+      "bytes": 280683,
+      "sha256": "1ffab48ea8e24f1309c7d2210627300adf0f4654f11d712d3169c05f51ee8379"
+    },
+    {
+      "path": "原始资料/扫描页/scan_104.png",
+      "bytes": 298908,
+      "sha256": "78b49f4ae8b9419ca941affd710a34f6c10b5ac953248163caef533ad9ffa612"
+    },
+    {
+      "path": "原始资料/扫描页/scan_105.png",
+      "bytes": 290036,
+      "sha256": "858173a387e56faf4e2c3088c2e41d0fa9c61bf84c03858bb3f9acd6bb60dcad"
+    },
+    {
+      "path": "原始资料/扫描页/scan_106.png",
+      "bytes": 275347,
+      "sha256": "81b929b3450a7b1c95669f2f1055d4977977eca7c9d7abf845bb3595e4f4633e"
+    },
+    {
+      "path": "原始资料/扫描页/scan_107.png",
+      "bytes": 292847,
+      "sha256": "9edfc95139830d8f90a0487c260abf62de6b7aaeee3f92c89e6be9d8412da897"
+    },
+    {
+      "path": "原始资料/扫描页/scan_108.png",
+      "bytes": 276036,
+      "sha256": "aa7d1f44badeafb4b7de239fbd544577de72b8e6a2513b25d468003baf7a0929"
+    },
+    {
+      "path": "原始资料/扫描页/scan_109.png",
+      "bytes": 287571,
+      "sha256": "46c55e0dc255d5913694ee6d9ab5d9972fe1ad0e08d22b9030162f9dc32445a0"
+    },
+    {
+      "path": "原始资料/扫描页/scan_110.png",
+      "bytes": 259500,
+      "sha256": "80da716830a7b99e1219fa8e0bbc67b5b756a97d891040973bb7c25e34b86773"
+    },
+    {
+      "path": "原始资料/扫描页/scan_111.png",
+      "bytes": 262593,
+      "sha256": "c16caac3bc038c7676e8043b1402688c79330eee708c9bc6dba99c157d9b4597"
+    },
+    {
+      "path": "原始资料/扫描页/scan_112.png",
+      "bytes": 264093,
+      "sha256": "ea365adc5b4a6d2c217e1e17ba8e23d28e34689539fc2cfef42c9788f1634146"
+    },
+    {
+      "path": "原始资料/扫描页/scan_113.png",
+      "bytes": 288898,
+      "sha256": "c24c166bcc099da504c6422fa0dcf5effb2c3423ed206dee55ea33347435c1df"
+    },
+    {
+      "path": "原始资料/扫描页/scan_114.png",
+      "bytes": 305145,
+      "sha256": "f77e9bc1c2bc0388f6fbca0ed843249aa2418ca8dff1f150631b6f9c83f68a14"
+    },
+    {
+      "path": "原始资料/扫描页/scan_115.png",
+      "bytes": 287152,
+      "sha256": "181c4e9c66eb67eba5b5e051a17edb5b644db4419db4ff548e0683d0f57b548b"
+    },
+    {
+      "path": "原始资料/扫描页/scan_116.png",
+      "bytes": 304045,
+      "sha256": "bf42da8325769894c98f0bbf7c0260419dda064904f55fe936e6768acdb3ba21"
+    },
+    {
+      "path": "原始资料/扫描页/scan_117.png",
+      "bytes": 307581,
+      "sha256": "d2684f851e69fa77da77074f0d52c9d0a091f52b181d01be6f0117c59da4eb7f"
+    },
+    {
+      "path": "原始资料/扫描页/scan_118.png",
+      "bytes": 305166,
+      "sha256": "f9d20ad2d31a8e977e2fa64b207fdd928af88177ca87c7807f76f97240748ef2"
+    },
+    {
+      "path": "原始资料/扫描页/scan_119.png",
+      "bytes": 302428,
+      "sha256": "dc73ed2e226add97b31613c96d5c9ee71eb2aa9691a6afeb0c19955167eeb589"
+    },
+    {
+      "path": "原始资料/扫描页/scan_120.png",
+      "bytes": 309494,
+      "sha256": "4c51091b12ddec63b401aee614234afa8be960f70051350078b605e49aafc848"
+    },
+    {
+      "path": "原始资料/扫描页/scan_121.png",
+      "bytes": 281991,
+      "sha256": "c580ff04b6d741e230d74d7f0e6d420088c08477d547f21c8349798959b8b0ce"
+    },
+    {
+      "path": "原始资料/扫描页/scan_122.png",
+      "bytes": 311330,
+      "sha256": "7321c5f49eb8d8fe39493cd67a6e640f008f5d8bb197d430bc183059a3aba447"
+    },
+    {
+      "path": "原始资料/扫描页/scan_123.png",
+      "bytes": 269848,
+      "sha256": "9b806725ae93b9391cf141ab974e361a96d654a32078bbfd52f4791c56287b7a"
+    },
+    {
+      "path": "原始资料/扫描页/scan_124.png",
+      "bytes": 292638,
+      "sha256": "218451131f5c106779edc7aef6762b2df3387d1c4b4484b0cc78926cfe510271"
+    },
+    {
+      "path": "原始资料/扫描页/scan_125.png",
+      "bytes": 303327,
+      "sha256": "844342441a167130c5579ecba2e1455aa1847ad36fd8af681e85be35e168882a"
+    },
+    {
+      "path": "原始资料/扫描页/scan_126.png",
+      "bytes": 287878,
+      "sha256": "3337f87dfbde516d3164d5bfdbad6d83876c500b916edc1c6bba31ec138acae1"
+    },
+    {
+      "path": "原始资料/扫描页/scan_127.png",
+      "bytes": 314721,
+      "sha256": "e6275fe47f0f8a3a557ba949be47fe5301ea17e0e1062f54b53e21901338241d"
+    },
+    {
+      "path": "原始资料/扫描页/scan_128.png",
+      "bytes": 298686,
+      "sha256": "45c39babe335b93b166127cb30c0e9fe7131d07263da223687e428e94aa84809"
+    },
+    {
+      "path": "原始资料/扫描页/scan_129.png",
+      "bytes": 298002,
+      "sha256": "7a45be164a9e5eff1c14a44209114b54057d0f2068c409d43dc9d3dde4dab9ea"
+    },
+    {
+      "path": "原始资料/扫描页/scan_130.png",
+      "bytes": 273236,
+      "sha256": "da0e96eac519b4d19ca07ce296edb9e3c287d1d2c8eb9ce96576fb575cf885d8"
+    },
+    {
+      "path": "原始资料/扫描页/scan_131.png",
+      "bytes": 304375,
+      "sha256": "5bebd1fc1610c6a439ac0cdbf64619d428b20b8e945cd0d253516ed7b7b59151"
+    },
+    {
+      "path": "原始资料/扫描页/scan_132.png",
+      "bytes": 277807,
+      "sha256": "b73a8ebe6f31dfcf0522973b913ed2aba5750cff556f44d91f8212e9c81b0d99"
+    },
+    {
+      "path": "原始资料/扫描页/scan_133.png",
+      "bytes": 307934,
+      "sha256": "261314f77132cbb2eb50eebd45b76c2381035bbc46147cc9c3ebe573e83e305a"
+    },
+    {
+      "path": "原始资料/扫描页/scan_134.png",
+      "bytes": 300256,
+      "sha256": "5039e0622562af2ff31ef698a5dbed791e4a17041decb4ea8f5ecb5bcfbb5c67"
+    },
+    {
+      "path": "原始资料/扫描页/scan_135.png",
+      "bytes": 305160,
+      "sha256": "a0f257c58a5aae9ad8df0dee72c06dbc9ece5d2f9fa1e6ff3c47304e6f5aef5f"
+    },
+    {
+      "path": "原始资料/扫描页/scan_136.png",
+      "bytes": 289852,
+      "sha256": "d325dfdbaa21d13f6807fef8726230db2b5693f0309fe08118939650e4d4465e"
+    },
+    {
+      "path": "原始资料/扫描页/scan_137.png",
+      "bytes": 310433,
+      "sha256": "03efeb5fd72693a12e4dd34c4b249222ff8e98a6ef4efeba43661a1d2c3d389d"
+    },
+    {
+      "path": "原始资料/扫描页/scan_138.png",
+      "bytes": 268181,
+      "sha256": "278805673cc743d40483da2f6003de5ad79bb03b85b06b5a181783d18aff9114"
+    },
+    {
+      "path": "原始资料/扫描页/scan_139.png",
+      "bytes": 284255,
+      "sha256": "edf433eab6dc82bb3e884ea7dd290a7397e10fe94ba2cb66eb93166a9fdb6b2a"
+    },
+    {
+      "path": "原始资料/扫描页/scan_140.png",
+      "bytes": 296599,
+      "sha256": "7b2311079794a8ef34a64b2ae8f7d511d355ec96cb7658232f1a436ff65c885e"
+    },
+    {
+      "path": "原始资料/扫描页/scan_141.png",
+      "bytes": 293757,
+      "sha256": "8a54088b09e7efac3803342d9c2bc30178569c954c93a88a6353f799e0e0838a"
+    },
+    {
+      "path": "原始资料/扫描页/scan_142.png",
+      "bytes": 281812,
+      "sha256": "d7c2fd1096ac5a68876ab1bb68fec671075d14cf0ab72a22b029af9c42022842"
+    },
+    {
+      "path": "原始资料/扫描页/scan_143.png",
+      "bytes": 261754,
+      "sha256": "989c36b89817f25e956a928faee51faa5f2f2ee45f6e025fd9d966c92d666d54"
+    },
+    {
+      "path": "原始资料/扫描页/scan_144.png",
+      "bytes": 281008,
+      "sha256": "b81609afb6b2b5b796399208789f70331d383d75737983f400c986108d88ccce"
+    },
+    {
+      "path": "原始资料/扫描页/scan_145.png",
+      "bytes": 296740,
+      "sha256": "a84161997c309623b093e059c170ef4a58a00b5d7242a0f4e08f00096fe7a62f"
+    },
+    {
+      "path": "原始资料/扫描页/scan_146.png",
+      "bytes": 302640,
+      "sha256": "0aa0145f858fd5b4ffb877d4911d4498373e81d1abf4cd81a48aed7cbe22dd06"
+    },
+    {
+      "path": "原始资料/扫描页/scan_147.png",
+      "bytes": 286599,
+      "sha256": "c36912a1b33b5e10d39f009b73db0f6d9ada90b106efcda9df38b0c7a9757dea"
+    },
+    {
+      "path": "原始资料/扫描页/scan_148.png",
+      "bytes": 279045,
+      "sha256": "b0bb0a926f722a9dd66bc8a8722a80b36a2ff9d4d372e39c55ddbc5007d3f3c6"
+    },
+    {
+      "path": "原始资料/扫描页/scan_149.png",
+      "bytes": 279508,
+      "sha256": "b99460aea457477aa9a79306352b13e4a5a330ff19ccf733f54b3bd208ae220d"
+    },
+    {
+      "path": "原始资料/扫描页/scan_150.png",
+      "bytes": 311966,
+      "sha256": "e20478cd93fcded9a972135bccd8344779629a0a7d958b13c66555d4ae189f3a"
+    },
+    {
+      "path": "原始资料/扫描页/scan_151.png",
+      "bytes": 317661,
+      "sha256": "c82ec467709ed4f6b8b4e35b659973fc6d749a4d76a6ddaec5292164cfe8bb67"
+    },
+    {
+      "path": "原始资料/扫描页/scan_152.png",
+      "bytes": 281996,
+      "sha256": "0dc3d8b8f223d1b261aa0b133ff88cfe368eb6f1cf2d16eb8f9cac6670e188c2"
+    },
+    {
+      "path": "原始资料/扫描页/scan_153.png",
+      "bytes": 270602,
+      "sha256": "8773810b2fcac43a0abf27b454d9b89405112a417fd62862cc962b908aa16b4b"
+    },
+    {
+      "path": "原始资料/扫描页/scan_154.png",
+      "bytes": 312283,
+      "sha256": "4624d5cea654739d224c56c86c7cbe0ce7dc68ad1fcca400aedeb9fc0811111d"
+    },
+    {
+      "path": "原始资料/扫描页/scan_155.png",
+      "bytes": 292483,
+      "sha256": "8df4d0df76668d3e5b7fe1740bd2f2f5a8650ed761bf0485f7d8fba6654c7e23"
+    },
+    {
+      "path": "原始资料/扫描页/scan_156.png",
+      "bytes": 281958,
+      "sha256": "919bf2af605bf95596c87ab0d6fd6911e2f55f4d6282c94c3747bf37ddae0d5f"
+    },
+    {
+      "path": "原始资料/扫描页/scan_157.png",
+      "bytes": 281887,
+      "sha256": "4824a85ca93f352fc3d67b455b44837ea9d74513021376a2fd2747e49b55bc73"
+    },
+    {
+      "path": "原始资料/扫描页/scan_158.png",
+      "bytes": 280410,
+      "sha256": "23abb7d0efee71368e85fbd07a9505171c5435c6f8ebf4a27497ef41ccab0e86"
+    },
+    {
+      "path": "原始资料/扫描页/scan_159.png",
+      "bytes": 271587,
+      "sha256": "4caad18bf9aca939c2e62a5519795e7f734169741189750467bd8b3bfc03561c"
+    },
+    {
+      "path": "原始资料/扫描页/scan_160.png",
+      "bytes": 280913,
+      "sha256": "3f70b2296e0968c5a91f70ad88e40debefa60780764b6546b9a1c42f94e66f08"
+    },
+    {
+      "path": "原始资料/扫描页/scan_161.png",
+      "bytes": 271793,
+      "sha256": "13bc8fd6d09d76c84280f0fb6006df2e516fcc0bcfc29c48f99f8b933d6a2c63"
+    },
+    {
+      "path": "原始资料/扫描页/scan_162.png",
+      "bytes": 314653,
+      "sha256": "e414f91e7b030bf9fda8044a422b6d50bf6215943f904c6aecd0804b6f33f5b3"
+    },
+    {
+      "path": "原始资料/扫描页/scan_163.png",
+      "bytes": 295797,
+      "sha256": "1829de4b72bb1eb58fe3351b14e5cb2005bc96638f2edb306b5e9bf346689f34"
+    },
+    {
+      "path": "原始资料/扫描页/scan_164.png",
+      "bytes": 288514,
+      "sha256": "50f6fe8c6412553c3f74c2bcafde42dc5446ed35c784ad598d863964af06f0f0"
+    },
+    {
+      "path": "原始资料/扫描页/scan_165.png",
+      "bytes": 295325,
+      "sha256": "346ad634dba23417ff705e2df8ca21004b72eec8736c254fdd1bf836600fba2a"
+    },
+    {
+      "path": "原始资料/扫描页/scan_166.png",
+      "bytes": 269877,
+      "sha256": "aad2fc66ea26e77a65cbae8c6183dda8fd3ff805685b857dd934c20dcbe8795d"
+    },
+    {
+      "path": "原始资料/扫描页/scan_167.png",
+      "bytes": 297404,
+      "sha256": "a2361da0cb409e0d48617dfbb98552f1067ce8a03e2b1961426cbad126ea10ca"
+    },
+    {
+      "path": "原始资料/扫描页/scan_168.png",
+      "bytes": 294665,
+      "sha256": "e981d723e4b28f1b45596282af45d33ede827ed836086ebb41b4e9239d2f468f"
+    },
+    {
+      "path": "原始资料/扫描页/scan_169.png",
+      "bytes": 278142,
+      "sha256": "fc8f0622c813f2b7303d2a94386e39ee47748730df75dfe15ffd97269e7c61ad"
+    },
+    {
+      "path": "原始资料/扫描页/scan_170.png",
+      "bytes": 319701,
+      "sha256": "452fe7eb9b55c7a1df564af17cd673f27b19e792bb169f1442a202afa95e72c0"
+    },
+    {
+      "path": "原始资料/扫描页/scan_171.png",
+      "bytes": 278412,
+      "sha256": "7fcc87b8e6a1f44f5651f234bf1ff08b3895583f4807c84b81002049df971d82"
+    },
+    {
+      "path": "原始资料/扫描页/scan_172.png",
+      "bytes": 294697,
+      "sha256": "87fea1d141842e346d7ce023895c446dc114d155343fb4b080a6156e166b43a4"
+    },
+    {
+      "path": "原始资料/扫描页/scan_173.png",
+      "bytes": 297400,
+      "sha256": "3e53246b19225dac84a6e33968dbdfb8c071c3b1a84190d3a4a4c5ff0ed3af26"
+    },
+    {
+      "path": "原始资料/扫描页/scan_174.png",
+      "bytes": 293489,
+      "sha256": "02e12794b6c89d6f6ed8ba46b4d3122ddb474f9731d3a25c5eda2686d2317e50"
+    },
+    {
+      "path": "原始资料/扫描页/scan_175.png",
+      "bytes": 310627,
+      "sha256": "0d1a777217be2c5be4c9d01c4050e350b62d15ccc5237e9722ce7a0180ab6173"
+    },
+    {
+      "path": "原始资料/扫描页/scan_176.png",
+      "bytes": 288275,
+      "sha256": "c0b67556486f107d2b937f538ade52bbc5ea431e7ff343bccf4afd2966f1a7b3"
+    },
+    {
+      "path": "原始资料/扫描页/scan_177.png",
+      "bytes": 281764,
+      "sha256": "7a4e5ca2e3c38d81c2a2ada15b8e2a40e18e15e98a5fd0a5a4aab1efb2e75ca1"
+    },
+    {
+      "path": "原始资料/扫描页/scan_178.png",
+      "bytes": 293401,
+      "sha256": "5f05cce5283c36dbb1e42220abf32ba305d6b7aa72acc07c8438bdd87e9eeb5d"
+    },
+    {
+      "path": "原始资料/扫描页/scan_179.png",
+      "bytes": 297416,
+      "sha256": "f4eb7e1e3d9033a0d10cbe28b9ed3c3a1bc14fc01e24f6e3365b36507f4379b8"
+    },
+    {
+      "path": "原始资料/扫描页/scan_180.png",
+      "bytes": 263750,
+      "sha256": "27c71608406d2df06f8927a6db02b975c0ec3b844782c42abb689da13ac77fbf"
+    },
+    {
+      "path": "原始资料/扫描页/scan_181.png",
+      "bytes": 313150,
+      "sha256": "27e233ca4b6fa4eefdaa0cfe03d2e400db12e35712a37ff0840051866f622ff1"
+    },
+    {
+      "path": "原始资料/扫描页/scan_182.png",
+      "bytes": 287053,
+      "sha256": "c248f4caac8438c8ebbca0570dde22cff93316966bd2f02916a967a829081dfa"
+    },
+    {
+      "path": "原始资料/扫描页/scan_183.png",
+      "bytes": 302470,
+      "sha256": "cd70cad393214674748824b9e776da186ebee1f2e45f9e5f38b897bdb2fa5977"
+    },
+    {
+      "path": "原始资料/扫描页/scan_184.png",
+      "bytes": 300394,
+      "sha256": "18935b4ce2db19427eb67fc27877b4a32cfe2df9978fbd5ce4e4159b3d349d43"
+    },
+    {
+      "path": "原始资料/扫描页/scan_185.png",
+      "bytes": 288095,
+      "sha256": "96a21ac427b53258629ff997432017cb56bfcc7867b280d5c5e8fd752f5b8fc9"
+    },
+    {
+      "path": "原始资料/扫描页/scan_186.png",
+      "bytes": 278205,
+      "sha256": "20438b974eb94d41268c9cdd80d60cb134254db992cfc28dcc93b76784fc08a8"
+    },
+    {
+      "path": "原始资料/扫描页/scan_187.png",
+      "bytes": 277347,
+      "sha256": "63aa3533da411a5a18c0f6c1fab6ed02b448b93544b03ce7fde0d12038aa7d98"
+    },
+    {
+      "path": "原始资料/扫描页/scan_188.png",
+      "bytes": 309170,
+      "sha256": "f0776d82f8989b00b18c4e4a0682878a3ddf5d78a915bbef69210dafbbfe905e"
+    },
+    {
+      "path": "原始资料/扫描页/scan_189.png",
+      "bytes": 299825,
+      "sha256": "7dd475c77b172a3f7ccba1f573a88a3036bbad85609de4bf0a47e13cb3071a72"
+    },
+    {
+      "path": "原始资料/扫描页/scan_190.png",
+      "bytes": 286784,
+      "sha256": "ac80b6c16470d3449c35882b38c1388c7359782ba86cbe23899bbad2def54445"
+    },
+    {
+      "path": "原始资料/扫描页/scan_191.png",
+      "bytes": 307623,
+      "sha256": "ce1cf517c7890dd6e07f2341d1316a259f0189a2380e9b6a751d9a1c6a329cf9"
+    },
+    {
+      "path": "原始资料/扫描页/scan_192.png",
+      "bytes": 286186,
+      "sha256": "76bae09e589140d0b6e52526394cfbdd0803faa9e8e6d50aa7b1f60793317dd8"
+    },
+    {
+      "path": "原始资料/扫描页/scan_193.png",
+      "bytes": 280902,
+      "sha256": "257f1a62f5a4ef7cbd72007f8d2d8305da8224a07a34293019e99b4421cb0da2"
+    },
+    {
+      "path": "原始资料/扫描页/scan_194.png",
+      "bytes": 282722,
+      "sha256": "5d790a4ea4b51d6bf9f12cdf47684be7d1104e261c1be9c0566a725db719c1aa"
+    },
+    {
+      "path": "原始资料/扫描页/scan_195.png",
+      "bytes": 295618,
+      "sha256": "aa6f250c94ffb9f346010aa263e202afb18f515463b2a1db29b2d543f4966ed0"
+    },
+    {
+      "path": "原始资料/扫描页/scan_196.png",
+      "bytes": 283756,
+      "sha256": "f5e37b8f6e2261a2aa51aa124c8af05370e3ecdaf5485b26bb8df5c6235abe27"
+    },
+    {
+      "path": "原始资料/扫描页/scan_197.png",
+      "bytes": 293566,
+      "sha256": "dfc9e16e8fb9a42fe85c8397f0ee92b16e26a574eac076afd3e80196cbd239b1"
+    },
+    {
+      "path": "原始资料/扫描页/scan_198.png",
+      "bytes": 312191,
+      "sha256": "b18589fca928bfe61916b0df2e423ec05b289247089174c6b84565a858325ada"
+    },
+    {
+      "path": "原始资料/扫描页/scan_199.png",
+      "bytes": 303600,
+      "sha256": "fe466f78ad517a76f23189d6f8cc618d9943169f2c6dc06a006affaafb1f68ad"
+    },
+    {
+      "path": "原始资料/扫描页/scan_200.png",
+      "bytes": 299655,
+      "sha256": "67231564df8c9d39537326ca70b997dd683c3639e9c0de8723f7db1eacea4422"
+    },
+    {
+      "path": "原始资料/扫描页/scan_201.png",
+      "bytes": 313361,
+      "sha256": "a16eb60edca0693d1919adab6c88f9e6b8229845486d4b76772984d6514b9be0"
+    },
+    {
+      "path": "原始资料/扫描页/scan_202.png",
+      "bytes": 286098,
+      "sha256": "49c98d61bde8a1c3f3306b4302a43ea16aabaca0b7dc22de3a31e2ffbdfd08e3"
+    },
+    {
+      "path": "原始资料/扫描页/scan_203.png",
+      "bytes": 321255,
+      "sha256": "b17c0d36742ba9090660a7399e060b059d5309a4f878c6c7bcb1a19a0e31b245"
+    },
+    {
+      "path": "原始资料/扫描页/scan_204.png",
+      "bytes": 285602,
+      "sha256": "90910e8d1dc245bba0e509b083c16aacf32332a8c065f716100bb801d74cac29"
+    },
+    {
+      "path": "原始资料/扫描页/scan_205.png",
+      "bytes": 295452,
+      "sha256": "1eff13a4ea1231cd17f81f73f3fd1d25980b0a93d6f8b4a59a33294910276cec"
+    },
+    {
+      "path": "原始资料/扫描页/scan_206.png",
+      "bytes": 309793,
+      "sha256": "b8143100082e4588ea4089348ef9815b8c15978857f4adafd5005453f5374028"
+    },
+    {
+      "path": "原始资料/扫描页/scan_207.png",
+      "bytes": 275042,
+      "sha256": "b7bfa228fa5d807ab674108fcf5bdb2fe77af05f6f2f82db9e530f9cc4da4d3a"
+    },
+    {
+      "path": "原始资料/扫描页/scan_208.png",
+      "bytes": 297318,
+      "sha256": "08531d31ca0b54d4bd853326021d02682f1e344565c8d5ad492938f06b66a7b7"
+    },
+    {
+      "path": "原始资料/扫描页/scan_209.png",
+      "bytes": 310143,
+      "sha256": "87a1f1f959a2fb4edd4c46be1a7515e34401397c91120a4fb6260f128363a46d"
+    },
+    {
+      "path": "原始资料/扫描页/scan_210.png",
+      "bytes": 317316,
+      "sha256": "bb07c4f21fb05ceb2249417d73a61e52d7a7099e2ba1df4614493cf80ea90cd7"
+    },
+    {
+      "path": "原始资料/扫描页/scan_211.png",
+      "bytes": 286522,
+      "sha256": "223360b7a79052b97c54d72eb91802c96e53c52df2a321f00d6485df4b54e0e7"
+    },
+    {
+      "path": "原始资料/扫描页/scan_212.png",
+      "bytes": 306916,
+      "sha256": "f4347bad16e5123e0c7abed6415d584f667e3bc518990f93c8b698e66f0d13c5"
+    },
+    {
+      "path": "原始资料/扫描页/scan_213.png",
+      "bytes": 270764,
+      "sha256": "42d60215b37385b694ea5efa593aeeb83c8374e2fe7222a6bae6b7c1d218b404"
+    },
+    {
+      "path": "原始资料/扫描页/scan_214.png",
+      "bytes": 291412,
+      "sha256": "ced6a0e3b178e5e10bee2b16c467e7082fd6fd5e0d34b572d426ae307af145a9"
+    },
+    {
+      "path": "原始资料/扫描页/scan_215.png",
+      "bytes": 266688,
+      "sha256": "d033147afabcf207125262abe5e1049d74c998ec8d69f2b4f26541fc3fac850f"
+    },
+    {
+      "path": "原始资料/扫描页/scan_216.png",
+      "bytes": 262413,
+      "sha256": "deae50269b34ec035ad92d7ff689b13a1aa931612decd584eae8c15a97e07233"
+    },
+    {
+      "path": "原始资料/扫描页/scan_217.png",
+      "bytes": 276871,
+      "sha256": "a21f4e722a79550fa0a076d7af040a8b8f1bf4179abea38721d5f21d4eb6a0fc"
+    },
+    {
+      "path": "原始资料/扫描页/scan_218.png",
+      "bytes": 291740,
+      "sha256": "ac6771a225a282835440b306eda4d3d62f659e1a3634b796674d7330bf247090"
+    },
+    {
+      "path": "原始资料/扫描页/scan_219.png",
+      "bytes": 293847,
+      "sha256": "94cf60c9f8720fc9e2cfbeb64579f5afe4e7b20efa467a3bb9ef0700323fbb9f"
+    },
+    {
+      "path": "原始资料/扫描页/scan_220.png",
+      "bytes": 309503,
+      "sha256": "b2e8cc478ba3b674a24786472a784180bf1e00e9976035fe142037d3124d732e"
+    },
+    {
+      "path": "原始资料/扫描页/scan_221.png",
+      "bytes": 288984,
+      "sha256": "b9a0081f22b155a2b897c4293db3a58c32ec13ec837a6cd9d2489b469016337f"
+    },
+    {
+      "path": "原始资料/扫描页/scan_222.png",
+      "bytes": 291724,
+      "sha256": "be705cda52cd2aefafbfdaf478d8b093d0af81836ae0395d9d8563fcb1160e15"
+    },
+    {
+      "path": "原始资料/扫描页/scan_223.png",
+      "bytes": 265473,
+      "sha256": "52354057009db483b1660d9b664c1086696447d52e23ce6deaf38044fd30c6d6"
+    },
+    {
+      "path": "原始资料/扫描页/scan_224.png",
+      "bytes": 274681,
+      "sha256": "2a1c5d44b4dc86238b7fad48da3999a0905f8207414f16460b3ef6c34b431fbc"
+    },
+    {
+      "path": "原始资料/扫描页/scan_225.png",
+      "bytes": 297141,
+      "sha256": "4ad6757046aaf5347e41cd7ce07e82d82b47f5018a6cc9d57ee5f366a7cdbdbd"
+    },
+    {
+      "path": "原始资料/扫描页/scan_226.png",
+      "bytes": 244933,
+      "sha256": "112f8abee266d9fb7f587dde4d54449bd01132ccb1d6e2f5cad25b7b8180ab62"
+    },
+    {
+      "path": "原始资料/扫描页/scan_227.png",
+      "bytes": 287902,
+      "sha256": "f2c81d4651e791c929f02f683ef289bc9aae7a9da4aec6872a461578586773dc"
+    },
+    {
+      "path": "原始资料/扫描页/scan_228.png",
+      "bytes": 273992,
+      "sha256": "53b8171d71c8cc6bb89a7c934d4a92e4538e816a7fb8bca9f34dbaee603ad44e"
+    },
+    {
+      "path": "原始资料/扫描页/scan_229.png",
+      "bytes": 266728,
+      "sha256": "2965a36214b5cc3ef39d84e3bae5aaa628b2457c9118f34ade0bd8f585d0a11c"
+    },
+    {
+      "path": "原始资料/扫描页/scan_230.png",
+      "bytes": 265223,
+      "sha256": "dab61dc87c9febd0127519176e32f9243cedcbe8f8f7f330c0908120bc76288a"
+    },
+    {
+      "path": "原始资料/扫描页/scan_231.png",
+      "bytes": 292579,
+      "sha256": "63c820499119986555571d4eb8d9776d705d894a28c54e84b483b5464121197d"
+    },
+    {
+      "path": "原始资料/扫描页/scan_232.png",
+      "bytes": 266136,
+      "sha256": "d7917250e433354cfb473a8e25515ed687c3dddb6b0349d4c1322fd4b098c2aa"
+    },
+    {
+      "path": "原始资料/扫描页/scan_233.png",
+      "bytes": 297918,
+      "sha256": "684cf39b0a2a432fe12d3368df5b4ce2fd731d314339dc128dfd5574f6a0e021"
+    },
+    {
+      "path": "原始资料/扫描页/scan_234.png",
+      "bytes": 294651,
+      "sha256": "b06cf59104f5596010966ee63b61ad71268e56baee0c5af2d7f8aab8ff3a7965"
+    },
+    {
+      "path": "原始资料/扫描页/scan_235.png",
+      "bytes": 280066,
+      "sha256": "19b5abe9eef79557dac1fbe6200d304237aea32b69ae9d7eca13f428114e4357"
+    },
+    {
+      "path": "原始资料/扫描页/scan_236.png",
+      "bytes": 275334,
+      "sha256": "e0aed81e704870ef9b47c7bdb77fdba0e55ca04bc5127b1692c42568b96cea80"
+    },
+    {
+      "path": "原始资料/扫描页/scan_237.png",
+      "bytes": 319534,
+      "sha256": "4ebbda2fe8d37358ec6f61155b7228372b8beb57a2e659d67e72ca915536dc21"
+    },
+    {
+      "path": "原始资料/扫描页/scan_238.png",
+      "bytes": 308395,
+      "sha256": "d67dd6ec1baca3488fd56cc9b2f6ee6f4795b39a594f2cd7cc490c61ebd635bc"
+    },
+    {
+      "path": "原始资料/扫描页/scan_239.png",
+      "bytes": 278898,
+      "sha256": "7634bfb6cddc1de8b2b7939b105d3b0437194092179c8c79696f765716cbd0b9"
+    },
+    {
+      "path": "原始资料/扫描页/scan_240.png",
+      "bytes": 274772,
+      "sha256": "637e97ac2421df3d80f1f41478fbd7a2f0943356e18fbb7b693d09bcb63da92e"
+    },
+    {
+      "path": "原始资料/扫描页/scan_241.png",
+      "bytes": 308462,
+      "sha256": "b3a85043487c55bfb68a1f96c52e7400714a865e38775533bfe9a1a5834d5bab"
+    },
+    {
+      "path": "原始资料/扫描页/scan_242.png",
+      "bytes": 279716,
+      "sha256": "551e2dc662efbc251d1437dbf231c5468df054f57538a3048fae158ee117d342"
+    },
+    {
+      "path": "原始资料/扫描页/scan_243.png",
+      "bytes": 300476,
+      "sha256": "38fc92cc0807adbd79d84c5567b5f11ff60f99546d7b8ae29fef8ff5a36a38c1"
+    },
+    {
+      "path": "原始资料/扫描页/scan_244.png",
+      "bytes": 306923,
+      "sha256": "65ec2ece9c0fcf10fc601a440000a355fbdd6cee4abfabe2cd3059b6ed60a502"
+    },
+    {
+      "path": "原始资料/扫描页/scan_245.png",
+      "bytes": 264283,
+      "sha256": "5bc515c4584a8641539d5fb34626fab16a5080f503d97929494820bd7758f9c5"
+    },
+    {
+      "path": "原始资料/扫描页/scan_246.png",
+      "bytes": 265393,
+      "sha256": "f7420b3ad64dfa70aa69076f5dae881261554d021f969a2fc3118da8dd75925f"
+    },
+    {
+      "path": "原始资料/扫描页/scan_247.png",
+      "bytes": 289956,
+      "sha256": "0de48cb92681e1938317db49935865db9851b95fcb9d1fae8f13f8eab3134e3e"
+    },
+    {
+      "path": "原始资料/扫描页/scan_248.png",
+      "bytes": 302968,
+      "sha256": "f2efc27d17be16a0ee9626ead8ef9c3a73b341b0fd0090dddde9d28d99014a08"
+    },
+    {
+      "path": "原始资料/扫描页/scan_249.png",
+      "bytes": 270788,
+      "sha256": "49560a000218804b4493278c21c5130de54e6b7796e5fe6f95fc7bfd4da8461b"
+    },
+    {
+      "path": "原始资料/扫描页/scan_250.png",
+      "bytes": 238031,
+      "sha256": "698b55643d839ca1eb70f0a26fb3efa1ac8de785c0df5b0e2eba2419d018b6e6"
+    },
+    {
+      "path": "原始资料/扫描页/scan_251.png",
+      "bytes": 278002,
+      "sha256": "bf6691a99ba41f948bb11225d58ad163f81c24440fb139cffa3e61f7a28fa07a"
+    },
+    {
+      "path": "原始资料/扫描页/scan_252.png",
+      "bytes": 289776,
+      "sha256": "5979d47679e0f38d0d0c44d4c27a071632756fa8b70a72a79096659661db8561"
+    },
+    {
+      "path": "原始资料/扫描页/scan_253.png",
+      "bytes": 269005,
+      "sha256": "1f3c27ad1e33ca17a645564efc046b1d1206da6e7347660a930659416561f191"
+    },
+    {
+      "path": "原始资料/扫描页/scan_254.png",
+      "bytes": 339683,
+      "sha256": "aef05bb23e2cca4dcb5e29b7492a3e2fc3d07d60bd574121f376fab944444875"
+    },
+    {
+      "path": "原始资料/扫描页/scan_255.png",
+      "bytes": 318792,
+      "sha256": "415d7ec434818f3459fad6d0c64a1c4dbcc968d700c49cee60eb7dcb2ac0e11b"
+    },
+    {
+      "path": "原始资料/扫描页/scan_256.png",
+      "bytes": 319233,
+      "sha256": "e168aef359d726208438558bf134fb1a7ba1fcd5b1c4872bcd31827b5e3a048a"
+    },
+    {
+      "path": "原始资料/扫描页/scan_257.png",
+      "bytes": 326342,
+      "sha256": "3493b127a33ca7d26c59f9c4689297b3d236b3719283ce14f9cd8e3156fc2908"
+    },
+    {
+      "path": "原始资料/扫描页/scan_258.png",
+      "bytes": 325604,
+      "sha256": "440d79cb7483e9a26213bb27be2254cfaf980b6a57a69fa0afd32146906f09c4"
+    },
+    {
+      "path": "原始资料/扫描页/scan_259.png",
+      "bytes": 325848,
+      "sha256": "b3fe1811b2c4330872dbdf856654964053c16f7bf176be0c7685b7d4209bddea"
+    },
+    {
+      "path": "原始资料/扫描页/scan_260.png",
+      "bytes": 282140,
+      "sha256": "575fc644a7fd0aff85c3c0f53aeefc88090d0b2a6476657166abc1ff1167a8c4"
+    },
+    {
+      "path": "原始资料/扫描页/scan_261.png",
+      "bytes": 261845,
+      "sha256": "afca55da26c4d6417a3e88ab1655c55c40ff5476ce673f008002575d11ad51f1"
+    },
+    {
+      "path": "原始资料/扫描页/scan_262.png",
+      "bytes": 290667,
+      "sha256": "965151522f14282a908c83927ef4dd95362785bfcec4fb0d51be9c51daf34659"
+    },
+    {
+      "path": "原始资料/扫描页/scan_263.png",
+      "bytes": 284150,
+      "sha256": "5aab75ae0b0e728ac977442ab9f15735fb6d776ffedf93c28930cc15dff071c0"
+    },
+    {
+      "path": "原始资料/扫描页/scan_264.png",
+      "bytes": 283027,
+      "sha256": "441a96c23efbd4d75625e817c86c6e1404d7c0916e314223bc3c252557d44e72"
+    },
+    {
+      "path": "原始资料/扫描页/scan_265.png",
+      "bytes": 285380,
+      "sha256": "d730baac16443c07b3468e992dd980752bfbd444a0ca5a78e54458cf9495c22c"
+    },
+    {
+      "path": "原始资料/扫描页/scan_266.png",
+      "bytes": 289009,
+      "sha256": "c21e28e0462166d34a7d0cfb577157219ef72214dadea16ddbfe24d504f01b11"
+    },
+    {
+      "path": "原始资料/扫描页/scan_267.png",
+      "bytes": 286736,
+      "sha256": "61b57cc0c5dc8a810e086f31142b174a99106b55ac32583a5917588102d7ce1e"
+    },
+    {
+      "path": "原始资料/扫描页/scan_268.png",
+      "bytes": 139433,
+      "sha256": "32bb4014d6c9947b02e6d0364352ece0bbdb15d1f6e2d427d4af53030c010d68"
+    },
+    {
+      "path": "原始资料/补正文献/Sokolow_1940_ZIN.pdf",
+      "bytes": 96656515,
+      "sha256": "b2aff3d8fddfcff346016daff8aa844e567c4046b8948a9ecd39c51b4f83dbeb"
+    },
+    {
+      "path": "原始资料/补正文献/daday.pdf",
+      "bytes": 29174680,
+      "sha256": "fda5a2e7e6c07606732b578289f9d90bd6b56cc8f66a1f8214edcfa2795fd9f1"
+    },
+    {
+      "path": "原始资料/补正文献/koenike1909.pdf",
+      "bytes": 16262376,
+      "sha256": "9abfacb0dcf2622260ad9a3cc47026704db75c20c9eb731e73bd1b727e65d5a1"
+    },
+    {
+      "path": "原始资料/补正文献/原书138.jpg",
+      "bytes": 382,
+      "sha256": "16e47f3d035184184776bda576cd6d75553cea4f2fdced15e35e3daabdf828e5"
+    },
+    {
+      "path": "方法说明.md",
+      "bytes": 3292,
+      "sha256": "5e4bd709d78a94895f32050a9528fe5a26d18c51b7be09e7c4a484096866718e"
+    },
+    {
+      "path": "最终成果/文字/manifest.json",
+      "bytes": 606,
+      "sha256": "fd5ffd99507c51384c9b147eb06df4891958a7eb0d59f2ff0c85ff09063e4255"
+    },
+    {
+      "path": "最终成果/文字/pages.jsonl",
+      "bytes": 1979460,
+      "sha256": "fba2b46c66ffeffc621e66370c4a3c007338558b2b95e5a86bd34fa66eb95079"
+    },
+    {
+      "path": "最终成果/文字/text.txt",
+      "bytes": 1913589,
+      "sha256": "49d2de43d6a9736707a5846df4ea643b623f472a5958483f49828c1b4757883d"
+    },
+    {
+      "path": "最终成果/版本回执/黑白阅读版记录.json",
+      "bytes": 62365,
+      "sha256": "60c0a749a446c510399d7c9d2c553c5c32b153137ef642f44e9bc21a64438f1a"
+    },
+    {
+      "path": "最终成果/黑白阅读版.pdf",
+      "bytes": 51421643,
+      "sha256": "6eaeb26e1c9dbd3dd066268a459c91cdf3c2108d500fe6a2d08ae5cc90721c3a"
+    },
+    {
+      "path": "源码/book_ocr/__init__.py",
+      "bytes": 55,
+      "sha256": "b40b8def453ba436ed1a44deb8b9d8899c674bdd5bdd25a5bb62723c80249293"
+    },
+    {
+      "path": "源码/book_ocr/cli.py",
+      "bytes": 7011,
+      "sha256": "6c5598d1917dac0dd6eec5c67ff1ab7b84fb5ad57ba29a10847d0c3e0e7dc9d0"
+    },
+    {
+      "path": "源码/book_ocr/delivery.py",
+      "bytes": 10926,
+      "sha256": "868a67965129cba56c2668ae2e47aabd316bbd93c4a79bf6c1cf80a24182ebda"
+    },
+    {
+      "path": "源码/book_ocr/rendering.py",
+      "bytes": 6570,
+      "sha256": "8bc3aa9699b98242eaffb0624e44bf746b211922fb421b07044d36d7d9d697b4"
+    },
+    {
+      "path": "源码/book_ocr/workflow.py",
+      "bytes": 10949,
+      "sha256": "fb5164cd9dd1669be53f08c794adac831b58f8339c9cec6c4d3cc81c9cf440cd"
+    },
+    {
+      "path": "源码/ocr_book.py",
+      "bytes": 143,
+      "sha256": "83edcb914f5dcc233a7623e5c8cc1d70d662c0d13af34f0377b3710abdd46b45"
+    },
+    {
+      "path": "源码/requirements.txt",
+      "bytes": 306,
+      "sha256": "e11f933b7e8130a70cafc119021c773d93ecd0ee3dee72d5fd69248db7eadc32"
+    },
+    {
+      "path": "源码/排印核心/inplace_lib.py",
+      "bytes": 128467,
+      "sha256": "6f994a7d3bac7a671bab14bd3734cce08317cf9ed7712e51fb2bccd696af0042"
+    },
+    {
+      "path": "源码/排印核心/书面替换表.json",
+      "bytes": 83,
+      "sha256": "009f28c2d21fb9078e3a97a0a124a3971a4a7defa57c804747fd53d9e718ebb4"
+    },
+    {
+      "path": "源码/排印核心/卷级页眉裁定.json",
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "path": "源码/排印核心/最终自动校正.json",
+      "bytes": 27909,
+      "sha256": "f76cafc816bd646c28eaac783d976bfcadab0f5ec40ff8f7cb97e14a25845d20"
+    },
+    {
+      "path": "源码/排印核心/第三轮校正.json",
+      "bytes": 92524,
+      "sha256": "5e120acebd01fedece4f715347661beab67ce9487944a324c5f4277356df2e3c"
+    },
+    {
+      "path": "源码/排印核心/第二轮校正.json",
+      "bytes": 202318,
+      "sha256": "8137e5a22a95187644ae2f34538adb298add4a9754ce544c783375ad0159a38a"
+    },
+    {
+      "path": "源码/项目配置.json",
+      "bytes": 282,
+      "sha256": "78d567bfa6d5601b015f6e971009a5a0d7d86a56a253a78f544de21b6a993856"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+# 本次验证使用Python 3.12.14；无需下载模型或打包整个环境。
+numpy==2.3.5
+Pillow==12.3.0
+pypdf==6.10.0
+reportlab==4.4.9
+# 可选俄文等断词：显式配置hyphen_language后另安装pyphen。
+# 外部命令依赖：Poppler（pdftoppm），由conda/mamba或系统包管理器提供。
